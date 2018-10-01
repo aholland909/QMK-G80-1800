@@ -1,2 +1,12 @@
 # QMK-G80-1800
-QMK Mod w/ Teensy
+G80-1800 Keyboard Matrix
+
+	LWIN			ESC	\	F4	G	H		F6		@	F5		NUM0	NUM,	UP	LALT	
+		RCTRL	RSFT	Z	X	C	V	M		,	.	#	ENTR	NUM LK	NUM /	NUM X	NUM PSE	NUM PRT	
+				1	2	3	4	7		8	9	0	F10	F11	F12	NUM PD	NUM END		
+		LCTRL		`	F1	F2	5	6		=	F8	-	F9	NUM DEL	NUM INS	NUM PU	NUM H		
+				Q	W	E	R	U		I	O	P		NUM 7	NUM 8	NUM 9	NUM +	NUM SCL	
+			LSFT	TAB	CAPS	F3	T	Y		]	F7	[	BKSPC	NUM 4	NUM 5	NUM6	MENU		
+				A	S	D	F	J		K	L	;		NUM 1	NUM 2	NUM 3	NUM ENT		
+    RWIN			    	                B	N				/	SPACE	DOWN	RIGHT	NUM -	LEFT	RALT	
+																			
