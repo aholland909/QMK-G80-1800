@@ -18,9 +18,10 @@ First you will need to desolder the old controller board from the PCB. Once done
 Next you will need to remove the tabs in the case to create some extra room for the Teensy, wires and cable. 
 ![img](https://i.imgur.com/H1tK3fc.jpg)
 
-## Step 3 - 
+## Step 3 - Breakboard and Teensy
 
-
+If you are using breakboard this will need to be cut down to size to fit the case. Then the Teensy will need to be soldered onto the breadboard by your prefered method. Here I am using two lots of SIL turner pin sockets and sinlge core wire and solder to make the connection. 
+![img](https://i.imgur.com/HCE7qHw.jpg)
 
 ## Step 4 - 
 
