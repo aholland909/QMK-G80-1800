@@ -37,3 +37,5 @@ Next I made a breakout for the LEDs. I made link wires, as one side of the LED g
 I squeezed all of the parts into the case and added in a USB wire to the Teensy. 
 ![img](https://i.imgur.com/s9Uk1On.jpg)
 
+## Final Board
+![img](https://i.imgur.com/GLZ2BeS.jpg)
